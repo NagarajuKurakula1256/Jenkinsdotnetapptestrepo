@@ -1,0 +1,11 @@
+D:\Nagaraju\Code_Practice\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.exe
+D:\Nagaraju\Code_Practice\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Nagaraju\Code_Practice\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Nagaraju\Code_Practice\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.dll
+D:\Nagaraju\Code_Practice\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.deps.json
+D:\Nagaraju\Code_Practice\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.runtimeconfig.json
+D:\Nagaraju\Code_Practice\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.pdb
+D:\Nagaraju\Code_Practice\WebApplication1\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Nagaraju\Code_Practice\WebApplication1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Nagaraju\Code_Practice\WebApplication1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Nagaraju\Code_Practice\WebApplication1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
